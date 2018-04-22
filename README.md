@@ -1,6 +1,6 @@
 # fac-13.github.io
 
-fac-13 blog
+fac-13 blog @ https://fac-13.github.io/
 
 ## PROPOSAL
 
