@@ -5,6 +5,7 @@ fac-13 blog @ https://fac-13.github.io/
 ## PROPOSAL
 
 * NOTE - If any fac-13rs or mentors / organisers disagree with the proposal then I will remove the repo asap! Just thought the quickest way to get discussion going might be to get a README.md up and running.
+* NOTE - As it is quite late in the day for fac-13 I see this proposal as more of an experiment to see how the idea works and whether it might be a useful method for future facs.
 
 ### WHAT
 
